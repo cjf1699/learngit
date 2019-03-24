@@ -1,2 +1,2 @@
-Git is good
-I am in mood.
+Git is a distributed version control system.
+Git is free software.
